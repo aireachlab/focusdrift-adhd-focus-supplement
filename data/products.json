@@ -1,0 +1,12 @@
+[
+  {
+    "position": 1,
+    "name": "FocusDrift",
+    "slug": "focusdrift",
+    "description": "Gentle productivity for ADHD professionals without the crash.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/focusdrift.jpg",
+    "target_audience_match": "For ADHD professionals who struggle with overstimulation and need clarity without stimulants.",
+    "price": "$39/month",
+    "data-link": "pending"
+  }
+]
